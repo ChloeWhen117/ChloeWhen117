@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chloe Nguyen
-- 🌱 I’m currently learning about ASP.net web development and Next.js web development.
+- 🌱 I’m currently working on this cool hobby project, [Sharepolls](https://sharepolls.vercel.app/), an app to create and share polls on the web.
 - 💞️ I’m looking to collaborate on full stack web applications.
 - 📫 Reach me on github and email
 
