@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chloe Nguyen
-- 🌱 I’m currently working on this cool hobby project, [Sharepolls](https://sharepolls.vercel.app/), an app to create and share polls on the web.
+- 🌱 I’m currently working on this cool hobby project, [Sharepolls](https://sharepolls.vercel.app/), an app to create and share polls on the web. Right now I'm doing a react-native re-write of the projects for learning purposes.
 - 💞️ I’m looking to collaborate on full stack web applications.
 - 📫 Reach me on github and email
 
