@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chloe Nguyen
-- 🌱 I’m currently working on this cool hobby project, [Sharepolls](https://sharepolls.vercel.app/), an app to create and share polls on the web. Right now I'm doing a react-native re-write of the projects for learning purposes.
+- 🌱 I’m currently an independent developer
 - I have previously worked on Tealium Machine Learning: https://tealium.com/products/tealium-predict-machine-learning/
 - 💞️ I’m looking for front end / full stack engineer roles. 
 - 📫 Reach me on github and email: chloenguyenpro@gmail.com
